@@ -5,7 +5,7 @@
 
 #### DESCRIPTION
 
-####### An implementation of a MIPS CPU written in Verilog. This project is in very early stages and currently only implements the most basic functionality of a MIPS CPU.
+An implementation of a MIPS CPU written in Verilog. This project is in very early stages and currently only implements the most basic functionality of a MIPS CPU.
 ####### 32-bit MIPS processor
 ####### implemented in Verilog
 ####### 5 stage pipeline
